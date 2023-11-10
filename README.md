@@ -11,7 +11,6 @@
 
 <br/>
 
-
   <h3>Frameworks & Libraries<h3/>
 
   <a href="https://skillicons.dev">
@@ -19,10 +18,25 @@
   </a>
 
 <br/>
+
+<h4>🌐 Find me around the web</h4>
+ 
+<p>- [Personal Website](https://developerkorir.github.io)</p>
+
+  <p><a href="https://twitter.com/TheTweetOfKorir"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a> </p>
+  
+  <p><a href="https://linkedin.com/in/calton-cheruiyot-korir-7a7335190"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></p>
 </div
-<div align="center">
- <h4>🌐 Find me around the web</h4> <br>
-- [Personal Website](https://developerkorir.github.io) <br>
-- [Twitter](https://twitter.com/TheTweetOfKorir) <br>
-- [LinkedIn](https://www.linkedin.com/in/calton-cheruiyot-korir-7a7335190/)
+  
+<div id="badges" align="center">
+  
+ 
+    
+</div>
+
+<div id='stats' align='center'>
+  <h3>🔥🔥 My Stats:</h3>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developerkorir&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 </div>

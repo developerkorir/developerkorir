@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://github.com/developerkorir/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=developerkorir&layout=compact&range=last_7_days&bg_color=30,e96243,934e95&title_color=fff&text_color=fff" />
+  </div>
 <h3 align="center">Hey there! I'm Calton Korir</h3>
 
 <p align="center">With a knack for coding and debugging, I brew logic over coffee in Nairobi, Kenya! ☕</p>
